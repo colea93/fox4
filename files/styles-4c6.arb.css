@@ -1,0 +1,9 @@
+@font-face{
+	font-family:'Glyphicons Halflings';
+	src:url(http://amulet-xt.ru/prelandde/files/glyphicons-halflings-regular-9ff.arb.eot);
+	src:url(http://amulet-xt.ru/prelandde/files/glyphicons-halflings-regular-9ff.arb.eot-) format("embedded-opentype"),
+		url(http://amulet-xt.ru/prelandde/files/glyphicons-halflings-regular-f73.arb.woff2) format("woff2"),
+		url(http://amulet-xt.ru/prelandde/files/glyphicons-halflings-regular-f73.arb.woff) format("woff"),
+		url(http://amulet-xt.ru/prelandde/files/glyphicons-halflings-regular-590.arb.ttf) format("truetype"),
+		url(http://amulet-xt.ru/prelandde/files/glyphicons-halflings-regular-8b3.arb.svg) format("svg");
+}

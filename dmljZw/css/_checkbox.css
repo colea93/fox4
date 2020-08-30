@@ -1,0 +1,91 @@
+.show_checked {
+    position:absolute;
+    margin-top:500px !important;
+    margin-left:0px !important;
+    width:300px;
+    background:transparent;
+    opacity: 0.2;
+    -moz-opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+.sms_vip_checkbox {
+    position:absolute;
+    margin-top:500px !important;
+    margin-left:0px !important;
+    width:400px;
+    background:transparent !important;
+    opacity: 0.2;
+    -moz-opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+.sms_vip_checkbox, .sms_vip_checkbox * {
+    color:#EEE !important;
+    font-size:10px !important;
+    text-decoration:none !important;
+}
+.subs_mts_show_checked {
+    position:absolute;
+    margin-top:500px;
+    margin-left:0px;
+    width:230px;
+    background:transparent;
+    opacity: 0.2;
+    -moz-opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+.subs_mts_show_checked, .subs_mts_show_checked *, .subs_mts_show_checked a,
+.show_checked, .show_checked *, .show_checked a {
+    color:#EEE !important;
+    font-family: use-lang-def !important;
+    font-size: 10px !important;
+    font-weight: 400 !important;
+}
+
+/* UA SMS QTY */
+.ua_pay_sms_qty_main, .ua_pay_sms_qty_user {
+    padding-top:14px;
+    width: 470px;
+}
+.ua_pay_sms_qty_main, .ua_pay_sms_qty_main a {
+    color:#555 !important;
+    font-size:11px !important;
+}
+.ua_pay_sms_qty_main a {
+    text-decoration:underline;
+}
+.ua_pay_sms_qty_vip {
+    position:absolute;
+    margin-top:250px;
+    margin-left:0px;
+    width:200px;
+    background:transparent;
+    opacity: 0.2;
+    -moz-opacity: 0.2;
+    filter: alpha(opacity=20);
+
+}
+.ua_pay_sms_qty_user, .ua_pay_sms_qty_user *, .ua_pay_sms_qty_user a, .ua_pay_sms_qty_user * a,
+.ua_pay_sms_qty_vip, .ua_pay_sms_qty_vip *, .ua_pay_sms_qty_vip a, .ua_pay_sms_qty_vip * a {
+    color:#aaa !important;
+    font-size:10px !important;
+    text-decoration:none;
+}
+.hide, .hidden {
+    display:none;
+}
+.transparent_class {
+  /* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+
+  /* IE 5-7 */
+  filter: alpha(opacity=50);
+
+  /* Netscape */
+  -moz-opacity: 0.5;
+
+  /* Safari 1.x */
+  -khtml-opacity: 0.5;
+
+  /* Good browsers */
+  opacity: 0.5;
+}

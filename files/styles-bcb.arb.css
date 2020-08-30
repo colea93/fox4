@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'FontAwesome';
+	src:url('http://amulet-xt.ru/prelandde/files/FontAwesome-659.arb.eot') format('embedded-opentype'),
+		url('http://amulet-xt.ru/prelandde/files/FontAwesome-7aa.arb.woff') format('woff'),
+		url('http://amulet-xt.ru/prelandde/files/FontAwesome-e64.arb.ttf')  format('truetype'),
+		url('FontAwesome.svg#FontAwesome') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
